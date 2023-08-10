@@ -1,0 +1,5 @@
+Budibase Error
+time="2023-08-10T10:19:51-03:00" level=warning msg="The \"BB_ADMIN_USER_EMAIL\" variable is not set. Defaulting to a blank string."
+time="2023-08-10T10:19:51-03:00" level=warning msg="The \"BB_ADMIN_USER_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2023-08-10T10:19:51-03:00" level=warning msg="The \"PLUGINS_DIR\" variable is not set. Defaulting to a blank string."
+image with reference redis was found but does not match the specified platform: wanted linux/amd64, actual: linux/arm64/v8

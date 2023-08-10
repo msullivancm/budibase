@@ -1,0 +1,12 @@
+Install on Docker
+To get started, you must have docker and docker compose installed on your machine.
+1. Install the Budibase CLI
+npm i -g @budibase/cli
+2. Select where to store Budibase, and the port to run it on
+budi hosting --init
+3. Run Budibase
+budi hosting --start
+4. Open Budibase in your browser and create your admin user.
+
+Uma vez que já temos o budi instalado e o docker-compose.yaml, basta executar
+budi hosting --start
